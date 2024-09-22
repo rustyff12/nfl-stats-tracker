@@ -1,0 +1,11 @@
+{
+  "name": "nfl-stats-tracker",
+  "version": "1.0.0",
+  "description": "NFL Player stats tracker for under/overs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

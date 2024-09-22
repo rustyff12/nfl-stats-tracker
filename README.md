@@ -10,6 +10,7 @@ NFL Player stats tracker for under/overs
 - Notes for players to keep track of
 
 ### Initial UI todo:
+[ ] -  Directory structure setup 
 [ ] -  HTML set up
 [ ] -  CSS set up with basic stylings
 [ ] -  Initial JS functionality
